@@ -8,9 +8,9 @@ Nombre: Evaluación de stock de golosinas
  Descripción: El algoritmo determina cuántos grupos de golosinas tienen más de 50 unidades, mostrando sus nombres y cantidades. 
  Suma las cantidades superiores a 50 y calcula su incidencia sobre el total. 
  Además, si alguna cantidad es menor a 10, imprime un mensaje indicando que se debe verificar el stock.*/
+ 
  //@author:  Sebastian Montalvo
  #include <stdio.h> 
-
 int main (){
     
     //Delaración de variables.

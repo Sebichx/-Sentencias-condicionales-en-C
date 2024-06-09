@@ -3,9 +3,9 @@ Determinar si alcanzan los bancos existentes, de no ser así informar además de
 Fecha: 09/06/2024
 Nombre: Verificación de bancos necesarios
 Desceipción: El algoritmo determina la cantidad de bancos y existentes e indica cuantos bancos agregar si es necesario*/
+
 //@author:  Sebastian Montalvo
 #include <stdio.h> 
-
 int main (){
     
     //Delaración de variables.
